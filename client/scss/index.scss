@@ -1,0 +1,16 @@
+body {
+  margin: 10x;
+}
+
+h1 {
+  text-align: center;
+  color: gray;
+  margin-top: 50px;
+}
+
+.mainwrapper {
+  max-width: 300px;
+}
+
+//importing bulma
+@import "../../node_modules/bulma/bulma.sass";
